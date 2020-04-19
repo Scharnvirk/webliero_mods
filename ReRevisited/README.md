@@ -19,7 +19,7 @@ Re-Revisited Re-vitits the Revisited and revises some of its weapons, aiming to 
 ## How to use
 
 To use the mod:
-- download all its files (`.json5` and `.wlsprt` files) from relevant folder
+- download all its files from this folder
 - open chat (`enter` by default)
 - type `/loadmod` and select `mod.json5` (this contains "logic" changes of the mod)
 - type `/loadmod` and select `sprites.wlsprt` (this contains gfx changes of the mod)
@@ -31,7 +31,7 @@ To use the mod:
 This version aims to fix some imbalance issues disovered in the game.
 
 * MORTAR - redone; now deals most of its damage with an explosion at the center. There are less particles and they deal less damage and travel shorter. This means mortar needs to be hit very close to the worm to deal relevant damage, but at the other hand, its damage is much more predictable now.
-* ACID FAN (new) - Fan returns! My biggest concern with it in the Promode was that while fun, it ultimately did not do much for the game at pro level. Now it deals damage can is always available, meaning it is a good weapon to have in the set for when you need to defend yourself and other weapons are reloading. You can also combine it with something slow to give it a "fan boost". Try with grenades!
+* ACID FAN (new) - Fan returns! My biggest concern with it in the Promode was that while fun, it ultimately did not do much for the game at pro level. Now it deals damage and is always available, meaning it is a good weapon to have in the set for when you need to defend yourself and other weapons are reloading. You can also combine it with something slow to give it a "fan boost". Try with grenades!
 * FLAMETHROWER - redone, altough it is an experiment. It now does not disappear on worm hit and should deal roughly similar damage as before. This makes the weapon work a bit differently and might add some variety to the game.
 * GRENADE - was underused, so it is buffed a bit. Deals more damage and explodes quicker, but at a cost of slightly less detect range of the explosion.
 * GRN LAUNCHER - was underused so it got buffed by reducing delay between shots.
