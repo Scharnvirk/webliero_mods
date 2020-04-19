@@ -37,6 +37,7 @@ This version aims to fix some imbalance issues disovered in the game.
 * GRN LAUNCHER - was underused so it got buffed by reducing delay between shots.
 * DARTGUN - was underused so it got buffed by increasing damage significantly.
 * LIGHTNING GUN - was a bit too strong, so its damage got very slightly reduced.
+* CRACKFIELD - was a bit too strong and easy to use, so it now pushes the worm quicker out of its range. This should reduce overall damage and push the crackfield more into defensive weapon territory.
 
 ## 1.0 (current version)
 
