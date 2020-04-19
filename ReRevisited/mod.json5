@@ -43,9 +43,9 @@
   },
   weapons: [
     {
-      parts: 20,
+      parts: 17,
       bulletType: 0,
-      bulletSpeed: 5,
+      bulletSpeed: 4,
       bulletSpeedInherit: 0.2298850574712644,
       distribution: 0.25,
       recoil: 0.55,
@@ -64,7 +64,7 @@
     {
       parts: 1,
       bulletType: 1,
-      bulletSpeed: 2.75,
+      bulletSpeed: 4,
       bulletSpeedInherit: 0.2040816326530612,
       distribution: 0.0457763671875,
       recoil: 0.06,
@@ -273,7 +273,7 @@
     {
       parts: 1,
       bulletType: 14,
-      bulletSpeed: 3.55,
+      bulletSpeed: 3,
       bulletSpeedInherit: 0.28169014084507044,
       distribution: 0.091552734375,
       recoil: 0.06,
@@ -309,9 +309,9 @@
       name: "CLUSTER POD"
     },
     {
-      parts: 49,
+      parts: 44,
       bulletType: 16,
-      bulletSpeed: 4,
+      bulletSpeed: 3,
       bulletSpeedInherit: 0.3125,
       distribution: 1,
       recoil: 2,
@@ -421,25 +421,6 @@
       launchSound: 5,
       playReloadSound: false,
       name: "MINI NUKE"
-    },
-    {
-      parts: 3,
-      bulletType: 25,
-      bulletSpeed: 5,
-      bulletSpeedInherit: 0.3333333333333333,
-      distribution: 0,
-      recoil: 0,
-      ammo: 1,
-      delay: 0,
-      loadingTime: 512,
-      leaveShells: 0,
-      leaveShellDelay: 1,
-      fireCone: 0,
-      laserSight: false,
-      laserBeam: false,
-      launchSound: 5,
-      playReloadSound: false,
-      name: "CRACKFIELD"
     },
     {
       parts: 1,
@@ -633,7 +614,7 @@
     }
   ],
   wObjects: [
-    { // shotgun wid0
+    { // auto shotgun wid0
       detectDistance: 1,
       blowAway: 0.01,
       gravity: 0.01068115234375,
@@ -658,7 +639,7 @@
       numFrames: 0,
       loopAnim: false,
       shotType: 0,
-      repeat: 1,
+      repeat: 2,
       colorBullets: 75,
       splinterAmount: 1,
       splinterColour: 13,
@@ -711,7 +692,7 @@
     },
     { // rifle wid2
       detectDistance: 1,
-      blowAway: 0.2,
+      blowAway: 0.5,
       gravity: 0.00030517578125,
       exploSound: -1,
       addSpeed: 0,
@@ -1030,7 +1011,7 @@
       affectByExplosions: true,
       bounce: 0.4,
       bounceFriction: 0.8,
-      timeToExplo: 150,
+      timeToExplo: 140,
       timeToExploV: 10,
       hitDamage: 4,
       bloodOnHit: 1,
@@ -1190,7 +1171,7 @@
       numFrames: 0,
       loopAnim: false,
       shotType: 0,
-      repeat: 1,
+      repeat: 2,
       colorBullets: 68,
       splinterAmount: 1,
       splinterColour: 13,
@@ -1266,7 +1247,7 @@
       numFrames: 0,
       loopAnim: false,
       shotType: 0,
-      repeat: 1,
+      repeat: 2,
       colorBullets: 75,
       splinterAmount: 1,
       splinterColour: 13,
@@ -1448,7 +1429,7 @@
       affectByExplosions: false,
       bounce: 1,
       bounceFriction: 1,
-      timeToExplo: 250,
+      timeToExplo: 140,
       timeToExploV: 0,
       hitDamage: 49,
       bloodOnHit: 15,
@@ -2913,7 +2894,7 @@
       timeToExplo: 70,
       timeToExploV: 60
     },
-    { // cracklermarker nid24
+    { // crackfield particle + marker nid24
       detectDistance: 0,
       gravity: 0,
       speed: 5,
@@ -2940,7 +2921,7 @@
       bloodTrailDelay: 0,
       leaveObj: -1,
       leaveObjDelay: 0,
-      timeToExplo: 8,
+      timeToExplo: 7,
       timeToExploV: 0
     }
   ],
@@ -2980,7 +2961,7 @@
       startFrame: 50,
       numFrames: 5,
       detectRange: 8,
-      damage: 5,
+      damage: 0.1,
       blowAway: 0.035,
       shadow: true,
       shake: 1,

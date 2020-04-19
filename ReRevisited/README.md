@@ -26,9 +26,26 @@ To use the mod:
 
 # Changelog
 
-## 1.1 (BETA)
+## 1.1
 
 This version aims to fix some imbalance issues disovered in the game.
+
+### 1.1.1 (BETA)
+
+Projectile weapons' speeds have been increased for quicker overall gameplay and higher usefulness of these:
+
+* CHAINGUN - projectile speed increased 
+* MINIGUN - projectile speed increased 
+* AUTO SHOTGUN - projectile speed increased, damage reduced slightly to compensate
+* SUPER SHOTGUN - projectile speed increased, damage reduced slightly to compensate
+
+Other changes:
+
+* RIFLE - with growing power of other weapons, its kickback has been returned to original value.
+* CRACKFIELD - removed; does generally not fit the mod
+* ZIMM - reduced its lasting time to 2 seconds to reduce map clutter
+
+### 1.1.0
 
 * MORTAR - redone; now deals most of its damage with an explosion at the center. There are less particles and they deal less damage and travel shorter. This means mortar needs to be hit very close to the worm to deal relevant damage, but at the other hand, its damage is much more predictable now.
 * ACID FAN (new) - Fan returns! My biggest concern with it in the Promode was that while fun, it ultimately did not do much for the game at pro level. Now it deals damage and is always available, meaning it is a good weapon to have in the set for when you need to defend yourself and other weapons are reloading. You can also combine it with something slow to give it a "fan boost". Try with grenades!
