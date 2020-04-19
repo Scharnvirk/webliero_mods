@@ -20,4 +20,6 @@ To use the mod:
 
 # Changelog
 
+## 1.5.2 (current version)
+
 Visit https://drive.google.com/open?id=1KX2X6k6q8Zq7uBpqZphD2Zjewfl_-n7M2GObxTmzzzc for details.

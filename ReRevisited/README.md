@@ -26,7 +26,7 @@ To use the mod:
 
 # Changelog
 
-# 1.0
+## 1.0 (current version)
 
 Generally, the idea was to:
 - make each weapon useful, by both nerfing most op ones and buffing weaker ones
