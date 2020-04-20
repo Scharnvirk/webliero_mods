@@ -43,8 +43,11 @@ Projectile weapons' speeds have been increased for quicker overall gameplay and 
 Other changes:
 
 * RIFLE - with growing power of other weapons, its kickback has been returned to original value.
+* WINCHESTER - reduced ammo to 4 and increased delay between shots, but now deals 20 damage. This change is an experiment towards "intermediate" weapons between mainline weapons like rifle and finishers like chaingun. As an intermediate weapon, winchester deals close to 3 times the damage or rifle per clip, but cannot kill in one clip. If the player can land 5 shots out of 8 provided by winchester in 2 clips, he will deliver the kill much faster than a RIFLE user. 
+* FLAK CANNON - increased damage of direct shot slightly, to put it more in line of general damage output of similar weapons.
 * CRACKFIELD - removed; does generally not fit the mod
 * ZIMM - reduced its lasting time to 2 seconds to reduce map clutter
+* MISSILE - reverted its AOE effect to original ProMode value. MISSILE is strong enough on its own and does not require additional buff. Visually it still has nice boom and smoke, but damage dealt by aoe is very miniscule, up to about 10 damage in short range.
 
 ### 1.1.0
 
