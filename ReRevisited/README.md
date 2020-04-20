@@ -52,7 +52,7 @@ Other changes:
 ### 1.1.0
 
 * MORTAR - redone; now deals most of its damage with an explosion at the center. There are less particles and they deal less damage and travel shorter. This means mortar needs to be hit very close to the worm to deal relevant damage, but at the other hand, its damage is much more predictable now.
-* ACID FAN (new) - Fan returns! My biggest concern with it in the Promode was that while fun, it ultimately did not do much for the game at pro level. Now it deals damage and is always available, meaning it is a good weapon to have in the set for when you need to defend yourself and other weapons are reloading. You can also combine it with something slow to give it a "fan boost". Try with grenades!
+* ACID FAN (new) - Fan returns! My biggest concern with it in the Promode was that while fun, it ultimately did not do much for the game at pro level. Now it deals damage too, meaning it is a good weapon to have in the set for when you need to defend yourself and other weapons are reloading. You can also combine it with something slow to give it a "fan boost". Try with grenades!
 * FLAMETHROWER - redone, altough it is an experiment. It now does not disappear on worm hit and should deal roughly similar damage as before. This makes the weapon work a bit differently and might add some variety to the game.
 * GRENADE - was underused, so it is buffed a bit. Deals more damage and explodes quicker, but at a cost of slightly less detect range of the explosion.
 * GRN LAUNCHER - was underused so it got buffed by reducing delay between shots.
