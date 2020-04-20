@@ -38,6 +38,7 @@ Projectile weapons' speeds have been increased for quicker overall gameplay and 
 * MINIGUN - projectile speed increased 
 * AUTO SHOTGUN - projectile speed increased, damage reduced slightly to compensate
 * SUPER SHOTGUN - projectile speed increased, damage reduced slightly to compensate
+* SCATTERGUN - projectile speed increased, spread greatly reduced to compensate
 
 Other changes:
 
