@@ -21,8 +21,7 @@ Re-Revisited Re-vitits the Revisited and revises some of its weapons, aiming to 
 To use the mod:
 - download all its files from this folder
 - open chat (`enter` by default)
-- type `/loadmod` and select `mod.json5` (this contains "logic" changes of the mod)
-- type `/loadmod` and select `sprites.wlsprt` (this contains gfx changes of the mod)
+- type `/loadmod` and select both `mod.json5` (this contains "logic" changes of the mod) and `sprites.wlsprt` (this contains gfx changes of the mod)
 
 # Changelog
 
@@ -30,7 +29,13 @@ To use the mod:
 
 This version aims to fix some imbalance issues disovered in the game.
 
-### 1.1.1 (BETA)
+### 1.1.2 (BETA)
+
+* SUPER SHOTGUN - still trying to make it useful. Now has very little delay between its shots, tighter spread and 1 detect range in line with well-performing AUTO SHOTGUN.
+
+* FLAMETHROWER -> FLAMER - Shorter flamer as a pure melee weapon, but with much more damage. Very short clip to compensate, otherwise it would be a totally OP in FFA where people often don't move. 
+
+### 1.1.1
 
 Projectile weapons' speeds have been increased for quicker overall gameplay and higher usefulness of these:
 

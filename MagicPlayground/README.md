@@ -15,8 +15,7 @@ This caused a complete overhaul of the mod and now only few weapons are left ove
 To use the mod:
 - download all its files from this folder
 - open chat (`enter` by default)
-- type `/loadmod` and select `mod.json5` (this contains "logic" changes of the mod)
-- type `/loadmod` and select `sprites.wlsprt` (this contains gfx changes of the mod)
+- type `/loadmod` and select both `mod.json5` (this contains "logic" changes of the mod) and `sprites.wlsprt` (this contains gfx changes of the mod)
 
 # Changelog
 
