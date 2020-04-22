@@ -29,11 +29,10 @@ To use the mod:
 
 This version aims to fix some imbalance issues disovered in the game.
 
-### 1.1.2 (BETA)
+### 1.1.2 (Release Candidate)
 
-* SUPER SHOTGUN - still trying to make it useful. Now has very little delay between its shots, tighter spread and 1 detect range in line with well-performing AUTO SHOTGUN.
-
-* FLAMETHROWER -> FLAMER - Shorter flamer as a pure melee weapon, but with much more damage. Very short clip to compensate, otherwise it would be a totally OP in FFA where people often don't move. 
+* SUPER SHOTGUN - still trying to make it useful. Now has very little delay between its shots, tighter spread and 1 detect range in line with well-performing AUTO SHOTGUN. 
+* FLAMETHROWER -> FLAMER - Shorter flamer as a pure melee weapon, but with much more damage. Very short clip to compensate, otherwise it would be a totally OP in FFA where people often don't move. The FLAMER a bad opener but a great finisher. It is supposed to be a last weapon to be used in your set, when the enemy is out of his heavy hitters and distance has closed to a minimum. 
 
 ### 1.1.1
 
