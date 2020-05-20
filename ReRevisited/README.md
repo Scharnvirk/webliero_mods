@@ -12,7 +12,7 @@ Final version of the mod was named Liero Promode Revisited
 ## Re-Revisted
 
 Webliero, being an online multiplayer game, introduced many game modes other than classic 1v1 mode. FFA is the most popular way of playing nowadays, and this exposed some issues with the Liero ProMode when played in FFA.
-Many weapons which are okay or even weak in the game (Chiquita Bomb, Big Nuke) proved to be very stron in FFA when there are mutliple targets available. Other weapons caused unnecessary clutter or were prone to be spammed (mines). Finally some weapons were borderline OP, and most pro players played with a set of gauss, rifle, zimm, laser with little variations. 
+Many weapons which are okay or even weak in the game (Chiquita Bomb, Big Nuke) proved to be very strong in FFA when there are mutliple targets available. Other weapons caused unnecessary clutter or were prone to be spammed (mines). Finally some weapons were borderline OP, and most pro players played with a set of gauss, rifle, zimm, laser with little variations. 
 
 Re-Revisited Re-vitits the Revisited and revises some of its weapons, aiming to make the game better suited for frantic Webliero environment.
 
@@ -37,7 +37,7 @@ This version aims to fix some of the spammy weapons discovered by current meta.
 
 * GRENADE -> DYNAMITE This change is in the other direction. Previously it was too hard to hit someone flying with the grenade, which made it a total hit or miss - literally. Now its damage has been spread into three explosions to cover a bit more area. This is an experimental change which may backfire, but for now let's see.
 
-* FLAMER - just a small buff by adding a little bit of amm; otherwise unchanged.
+* FLAMER - just a small buff by adding a little bit of amm0; otherwise unchanged.
 
 
 ## 1.1.2 (CURRENT RELEASE)
@@ -79,7 +79,7 @@ Other changes:
 * LIGHTNING GUN - was a bit too strong, so its damage got very slightly reduced.
 * CRACKFIELD - was a bit too strong and easy to use, so it now pushes the worm quicker out of its range. This should reduce overall damage and push the crackfield more into defensive weapon territory.
 
-## 1.0 (current version)
+## 1.0
 
 Generally, the idea was to:
 - make each weapon useful, by both nerfing most op ones and buffing weaker ones
