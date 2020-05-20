@@ -25,7 +25,7 @@ To use the mod:
 
 # Changelog
 
-## 1.2.0
+## 1.2.0 (BETA)
 
 This version aims to fix some of the spammy weapons discovered by current meta.
 
