@@ -25,6 +25,21 @@ To use the mod:
 
 # Changelog
 
+## 1.2.0
+
+This version aims to fix some of the spammy weapons discovered by current meta.
+
+* MINI NUKE got its third stage particles removed entirely, and its second stage particles last a bit shorter. On the upside, it got one more second stage particle to compensate. Overall it now requires much more precision than before.
+
+* CLUSTER POD is now also requiring more precision, having way less spread and also more tight projectile pattern. It now drops 20 pieces instead of 26, since hitting someone with such a dense cloud of 26 particles was a sure death.
+
+* INCENDIATOR also got less spread. Its projectiles now fly almost entirely straight, and ammo has been chopped to two. To compensate, its speed was increased almost twofold.
+
+* GRENADE -> DYNAMITE This change is in the other direction. Previously it was too hard to hit someone flying with the grenade, which made it a total hit or miss - literally. Now its damage has been spread into three explosions to cover a bit more area. This is an experimental change which may backfire, but for now let's see.
+
+* FLAMER - just a small buff by adding a little bit of amm; otherwise unchanged.
+
+
 ## 1.1.2 (CURRENT RELEASE)
 
 This version aims to fix some imbalance issues disovered in the game.
