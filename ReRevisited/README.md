@@ -25,7 +25,11 @@ To use the mod:
 
 # Changelog
 
-## 1.2.0 (BETA)
+## 1.2.1 (BETA)
+
+* INCENDIATOR got remodelled to fulfill a different role. Now has limited range and less damage, but bounces. It disappears quickly so shouldn't be too flammable, but allows to reach worms hiding behind a corner. New bouncendiator is super deadly in confined spaces, because it does not disappear on worm hit.
+
+## 1.2.0
 
 This version aims to fix some of the spammy weapons discovered by current meta.
 
