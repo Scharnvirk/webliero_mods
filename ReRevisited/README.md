@@ -25,7 +25,13 @@ To use the mod:
 
 # Changelog
 
-## 1.3.0 (BETA)
+## 1.3.1 (BETA)
+
+* GRENADE slightly less reload, since it lacks in usefulness.
+
+* SOLAR SCORCH slightly buffed in damage, from 64 total to 68.
+
+## 1.3.0
 
 This version contains series of adjustments relating some less-useful weapons.
 
