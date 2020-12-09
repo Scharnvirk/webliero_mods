@@ -25,7 +25,21 @@ To use the mod:
 
 # Changelog
 
-## 1.2.1 (BETA)
+## 1.3.0 (BETA)
+
+This version contains series of adjustments relating some less-useful weapons.
+
+* AUTO SHOTGUN was generally too weak, so it got a straight, simple buff to damage. Now it shoots 25 pellets instead of 17.
+
+* WINCHESTER likewise was slightly underused, so it got slightly less delay between shots and one more ammo.
+
+* DARTGUN had too much delay when on ground, in fact far more than spikeballs. Its stay time was reduced from 600 to 300.
+
+* DYNAMITE -> GRENADE - simple particle-less grenade is a simple concept which just refuses to work in liero. This is third approach: back to one projectile, but on very short reload. This makes it always available like throwing knife and provides plenty of tries in short time.
+
+* SOLAR SCORCH was in a weird spot. It was like a more powerful laser, yet didn't really work on long range. It was also underwhelming. The weapon was redesigned significantly; now it is a powerful but very short beam capable of dealing 64 damage, meaning it is reasoanbly possible to kill a worm in two good hits. 
+
+## 1.2.1 (CURRENT RELEASE)
 
 * INCENDIATOR got remodelled to fulfill a different role. Now has limited range and less damage, but bounces. It disappears quickly so shouldn't be too flammable, but allows to reach worms hiding behind a corner. New bouncendiator is super deadly in confined spaces, because it does not disappear on worm hit.
 
@@ -44,7 +58,7 @@ This version aims to fix some of the spammy weapons discovered by current meta.
 * FLAMER - just a small buff by adding a little bit of amm0; otherwise unchanged.
 
 
-## 1.1.2 (CURRENT RELEASE)
+## 1.1.2
 
 This version aims to fix some imbalance issues disovered in the game.
 
