@@ -4,6 +4,13 @@
 Webliero is an online version of excellent game Liero made by Joosa Riekkinen and released in 1998.
 You can play it for free in your browser at https://www.webliero.com/
 
+## The mods
+
+The repository has moved!
+You can find all my mods here:
+
+https://gitlab.com/webliero/webliero-mods
+
 ## How to use the mods
 
 This repo contains my mods for the game. 
